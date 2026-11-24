@@ -1,0 +1,14 @@
+Directory Name,URL checked,Why not verified
+SaaSHub,https://www.saashub.com/submit/list,"The page's 'free' wording describes their own list of other submission sites ('our free tool that helps you to promote your product'), not the price of a SaaSHub listing. The submit form itself states no price."
+Fazier,https://fazier.com/,Submit and pricing pages carry only navigation text; the pricing URL 404s. No listing price found in readable HTML.
+GitHub Marketplace,https://docs.github.com/en/apps/github-marketplace/github-marketplace-overview/about-github-marketplace-for-apps,"The 'free and paid' wording refers to the pricing of the apps being listed, not the cost of listing. This is the product-price confusion flagged in the audit."
+Hugging Face Spaces,https://huggingface.co/pricing,Pricing page lists compute hardware rates; no sentence states a cost or no-cost to create a Space.
+Atlassian Marketplace,https://developer.atlassian.com/platform/marketplace/,"'offer apps for free or paid' is the vendor's own app pricing, not a listing fee."
+Tiny Startups,https://www.tinystartups.com/,No fee or free statement found in the HTML.
+Clawlancer,https://clawlancer.ai/,"'Registration is free' refers to creating an account, not to listing a product. Reporting it as a free listing was wrong."
+SaaS AI Tools,https://saasaitools.com/join/,"'No monthly fees or subscriptions' describes membership of their paid resource, and the surrounding text is a benefits list, not a listing price."
+Docker Hub,https://docs.docker.com/docker-hub/publish/,Docs describe the publishing workflow; no listing-fee sentence in the HTML returned.
+Replicate,https://replicate.com/pricing,"'You only pay for what you use' is inference usage pricing, not a listing fee."
+Pipedream,https://pipedream.com/pricing,"'Free to build' is workflow usage, not the price of a public listing."
+AI Tools Directory,https://aitoolsdirectory.com/submit-tool,Submit page returns no price text; the site-level 'free resource' line has no listing predicate and was previously misused as the evidence.
+MicroLaunch,https://microlaunch.net/,"The 'list their products for free' wording was present on an earlier read but is not in the page's served HTML on re-check; the premium page prices launch packs ($39/$79), not the listing. Pulled rather than asserted."
