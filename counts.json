@@ -1,9 +1,9 @@
 {
- "verified": 15,
- "unverified": 13,
+ "verified": 16,
+ "unverified": 21,
  "distribution": {
   "free": 2,
   "freemium": 7,
-  "paid": 6
+  "paid": 7
  }
 }

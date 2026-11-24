@@ -12,3 +12,11 @@ Replicate,https://replicate.com/pricing,"'You only pay for what you use' is infe
 Pipedream,https://pipedream.com/pricing,"'Free to build' is workflow usage, not the price of a public listing."
 AI Tools Directory,https://aitoolsdirectory.com/submit-tool,Submit page returns no price text; the site-level 'free resource' line has no listing predicate and was previously misused as the evidence.
 MicroLaunch,https://microlaunch.net/,"The 'list their products for free' wording was present on an earlier read but is not in the page's served HTML on re-check; the premium page prices launch packs ($39/$79), not the listing. Pulled rather than asserted."
+Slack Marketplace,https://docs.slack.dev/slack-marketplace/,"Marketplace page describes reaching 2500+ apps and benefits but states no listing fee. Distribution docs describe OAuth and review, no price. Browser-rendered and checked."
+Raycast Store,https://developers.raycast.com/basics/prepare-an-extension-for-store.md,Review requirements only; the markdown doc contains no fee or free-to-list statement.
+Dify Marketplace,https://docs.dify.ai/plugins/publish-plugins/publish-to-dify-marketplace.md,Publishing steps only; no fee statement in the markdown version of the doc.
+Notion Integrations,https://developers.notion.com/docs/create-a-notion-integration.md,Integration setup steps; no listing price stated.
+Obsidian Community Plugins,https://docs.obsidian.md/Plugins/Releasing/Submit+your+plugin.md,Submission steps; no fee statement.
+n8n Community Nodes,https://docs.n8n.io/integrations/creating-nodes/deploy/submit-community-nodes.md,Submission steps; no fee statement.
+Vercel Integrations,https://vercel.com/docs/integrations/create-integration.md,Creation steps; no fee statement.
+Zoho Marketplace,https://www.zoho.com/marketplace/developer/faq.md,Markdown endpoint unavailable; the HTML FAQ did not state a listing fee.

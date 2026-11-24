@@ -1,4 +1,4 @@
-# Verified directory pricing — 15 rows (2026-11-25)
+# Verified directory pricing — 16 rows (2026-11-25)
 
 This supersedes two earlier versions of this dataset, both wrong:
 
@@ -28,7 +28,7 @@ where a second fact matters (DevHunt's $49 launch, MCPServers.org's $39 premium 
 
 - **2 free** — API.market, WordPress Plugin Directory
 - **7 freemium** — MCPServers.org, DevHunt, Launching Next, Dang.ai, Uneed, Agent Hunter, SideProjectors
-- **6 paid** — mcp.so, MCP Market, BetaList, AI Agents List, Tool Directory, Chrome Web Store
+- **7 paid** — mcp.so, MCP Market, BetaList, AI Agents List, Tool Directory, Chrome Web Store, Shopify App Store
 
 ## The 13 that are not here
 
@@ -47,4 +47,4 @@ It fetches each submission URL and asserts the recorded sentence is a literal
 substring of the page. This is the check the first version lacked — it grepped for a
 dollar sign anywhere on the page and printed the surrounding text.
 
-Current state: `15 ok / 0 failed / 15 rows`.
+Current state: `16 ok / 0 failed / 16 rows`.
