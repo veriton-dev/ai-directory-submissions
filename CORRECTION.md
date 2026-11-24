@@ -48,16 +48,16 @@ again caught two more defect classes:
    verifier against the cited page caught six more of my own rows where the recorded
    quote was a layout stitching (MCP Market, Agent Hunter, API.market, Tool Directory)
    and one whose sentence no longer appeared at all (MicroLaunch). Those quotes were
-   corrected to contiguous page text or the row was demoted. Final count: 14, all of
+   corrected to contiguous page text or the row was demoted. Final count after adding one newly found row: 15, all of
    which pass a literal substring check against the live page.
 
 ## What this file now contains
 
-**14 rows** where one sentence on the directory's own page contains both a listing
+**15 rows** where one sentence on the directory's own page contains both a listing
 action (submit / list / publish / launch / directory) and a price, and that sentence is
 about the *cost of being listed*:
 
-- 2 free, 6 freemium, 6 paid.
+- 2 free, 7 freemium, 6 paid.
 
 Each row carries the sentence, plus a caveat column where a second fact matters
 (DevHunt's $49 launch, MCPServers.org's $39 premium review, Tool Directory's $9.99/month
@@ -68,7 +68,7 @@ specific reason — including three where I previously published a wrong answer
 (SaaSHub, Clawlancer, AI Tools Directory) and four where the quote described the listed
 product's price.
 
-## Why 14 and not 40
+## Why 15 and not 40
 
 The point of this dataset is that someone can act on a row without re-checking it.
 Padding back to 40 would recreate exactly the failure this file documents. Several

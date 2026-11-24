@@ -1,4 +1,4 @@
-# Verified directory pricing — 14 rows (2026-11-25)
+# Verified directory pricing — 15 rows (2026-11-25)
 
 This supersedes two earlier versions of this dataset, both wrong:
 
@@ -6,6 +6,7 @@ This supersedes two earlier versions of this dataset, both wrong:
 |---|---|---|
 | 40 rows | all evidence-backed, 40/40 re-read | 29 of 40 pricing cells unsupported by their quote |
 | 27 rows | every quote verbatim | 10 quotes were `...` fragments; 6 did not appear on the page |
+| 14 rows | all quotes literal | correct but incomplete; one more row found on re-sweep |
 
 `CORRECTION.md` names the wrong rows in both.
 
@@ -26,7 +27,7 @@ where a second fact matters (DevHunt's $49 launch, MCPServers.org's $39 premium 
 ## Distribution
 
 - **2 free** — API.market, WordPress Plugin Directory
-- **6 freemium** — MCPServers.org, DevHunt, Launching Next, Dang.ai, Uneed, Agent Hunter
+- **7 freemium** — MCPServers.org, DevHunt, Launching Next, Dang.ai, Uneed, Agent Hunter, SideProjectors
 - **6 paid** — mcp.so, MCP Market, BetaList, AI Agents List, Tool Directory, Chrome Web Store
 
 ## The 13 that are not here
@@ -46,4 +47,4 @@ It fetches each submission URL and asserts the recorded sentence is a literal
 substring of the page. This is the check the first version lacked — it grepped for a
 dollar sign anywhere on the page and printed the surrounding text.
 
-Current state: `14 ok / 0 failed / 14 rows`.
+Current state: `15 ok / 0 failed / 15 rows`.
