@@ -20,3 +20,11 @@ Obsidian Community Plugins,https://docs.obsidian.md/Plugins/Releasing/Submit+you
 n8n Community Nodes,https://docs.n8n.io/integrations/creating-nodes/deploy/submit-community-nodes.md,Submission steps; no fee statement.
 Vercel Integrations,https://vercel.com/docs/integrations/create-integration.md,Creation steps; no fee statement.
 Zoho Marketplace,https://www.zoho.com/marketplace/developer/faq.md,Markdown endpoint unavailable; the HTML FAQ did not state a listing fee.
+ToolPilot,https://www.toolpilot.ai/,Homepage and submit pages returned no sentence naming a listing price; probe windows were coupon/nav text.
+TopTools,https://toptools.ai/submit,No listing+price sentence found on the submit page.
+Insidr AI,https://www.insidr.ai/submit-tools/,"Matched only 'Join Free AI Tools directory Submit an AI tool' - navigation chrome, not a pricing statement."
+Product Hype,https://producthype.co/submit-my-project/,Form fields only; no listing price stated.
+AI Agents Directory,https://aiagentsdirectory.com/submit-agent,Submit page returned 404 on re-check; previously dropped for nav-chrome evidence.
+AIXploria,https://www.aixploria.com/en/submit-ai-tool-or-feature-company/,Same nav-chrome defect as before ('Free AI Tools ... Submit an AI'); no pricing sentence.
+MCP directories (30 hosts),various /submit,"Swept 30 MCP directory hosts: 402/403/404/502/503 from a plain fetch, or no listing+price sentence. No new rows."
+PyPI,https://pypi.org/help/,"Checked help and packaging guides: no sentence states a publishing cost or that publishing is free. Widely believed to be free, but the pages do not say it in text I can quote."

@@ -12,7 +12,7 @@ Not 40. The 40-row version of this dataset was withdrawn after self-audit — se
 | file | what it is |
 |---|---|
 | `output_verified.csv` | 17 rows: name, submit URL, pricing, contact, verbatim sentence, caveat |
-| `output_unverified.csv` | 21 candidates with the specific reason each is not verified |
+| `output_unverified.csv` | 29 candidates with the specific reason each is not verified |
 | `verify.py` | stdlib re-fetch of the submission URLs |
 | `CORRECTION.md` | the audit: 29 of 40 published cells unsupported, and why |
 

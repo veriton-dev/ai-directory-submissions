@@ -63,7 +63,7 @@ Each row carries the sentence, plus a caveat column where a second fact matters
 (DevHunt's $49 launch, MCPServers.org's $39 premium review, Tool Directory's $9.99/month
 subscription alongside a $150 lifetime option).
 
-`output_unverified.csv` lists the **21** I could not source that way, each with the
+`output_unverified.csv` lists the **29** I could not source that way, each with the
 specific reason — including three where I previously published a wrong answer
 (SaaSHub, Clawlancer, AI Tools Directory) and four where the quote described the listed
 product's price.
